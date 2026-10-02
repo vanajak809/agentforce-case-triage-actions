@@ -1,0 +1,16 @@
+{
+  "name": "agentforce-case-triage-actions",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Invocable Apex actions for case triage, usable from Flow and as Agentforce agent actions (deterministic demo logic, synthetic data).",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write \"force-app/**/*.{cls,trigger,xml}\" \"{config,data}/**/*.json\" \"*.json\"",
+    "prettier:verify": "prettier --check \"force-app/**/*.{cls,trigger,xml}\" \"{config,data}/**/*.json\" \"*.json\""
+  },
+  "devDependencies": {
+    "@prettier/plugin-xml": "^3.4.2",
+    "prettier": "^3.9.9",
+    "prettier-plugin-apex": "^2.3.0"
+  }
+}

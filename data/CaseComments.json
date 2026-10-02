@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "CaseComment", "referenceId": "TriageComment1" },
+      "ParentId": "@TriageCase1",
+      "CommentBody": "Synthetic note: card blocked, awaiting member confirmation.",
+      "IsPublished": false
+    },
+    {
+      "attributes": { "type": "CaseComment", "referenceId": "TriageComment2" },
+      "ParentId": "@TriageCase3",
+      "CommentBody": "Synthetic note: requested itemised statement from billing.",
+      "IsPublished": true
+    }
+  ]
+}

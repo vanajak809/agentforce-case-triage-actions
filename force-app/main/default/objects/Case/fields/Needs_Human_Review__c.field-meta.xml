@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Needs_Human_Review__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Set when the triage recommendation must be confirmed by a person.</description>
+    <externalId>false</externalId>
+    <label>Needs Human Review</label>
+    <type>Checkbox</type>
+</CustomField>

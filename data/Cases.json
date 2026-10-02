@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "attributes": { "type": "Case", "referenceId": "TriageCase1" },
+      "Subject": "Synthetic: stolen card and suspicious charges",
+      "Description": "Synthetic member reports a stolen card and urgent fraud concerns.",
+      "Status": "New",
+      "Origin": "Phone"
+    },
+    {
+      "attributes": { "type": "Case", "referenceId": "TriageCase2" },
+      "Subject": "Synthetic: double charged by merchant",
+      "Description": "Synthetic member wants to dispute a charge and request a refund.",
+      "Status": "New",
+      "Origin": "Web"
+    },
+    {
+      "attributes": { "type": "Case", "referenceId": "TriageCase3" },
+      "Subject": "Synthetic: question about medical bill",
+      "Description": "Synthetic patient asks why the copay differs from the explanation of benefits.",
+      "Status": "New",
+      "Origin": "Email"
+    },
+    {
+      "attributes": { "type": "Case", "referenceId": "TriageCase4" },
+      "Subject": "Synthetic: reschedule appointment",
+      "Description": "Synthetic patient needs to reschedule an appointment today.",
+      "Status": "New",
+      "Origin": "Web"
+    },
+    {
+      "attributes": { "type": "Case", "referenceId": "TriageCase5" },
+      "Subject": "Synthetic: general question",
+      "Description": "Synthetic member asks about branch opening hours.",
+      "Status": "New",
+      "Origin": "Web"
+    }
+  ]
+}

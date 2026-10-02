@@ -1,0 +1,14 @@
+[
+  {
+    "sobject": "Case",
+    "saveRefs": true,
+    "resolveRefs": false,
+    "files": ["Cases.json"]
+  },
+  {
+    "sobject": "CaseComment",
+    "saveRefs": false,
+    "resolveRefs": true,
+    "files": ["CaseComments.json"]
+  }
+]
